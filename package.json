@@ -1,0 +1,29 @@
+{
+  "name": "render-fcstd",
+  "version": "1.0.0",
+  "description": "Render FreeCad Fcstd files to a WebGL canvas using THREE.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcartmell/render-fcstd.git"
+  },
+  "keywords": [
+    "render",
+    "fcstd",
+    "freecad",
+    "three"
+  ],
+  "author": "Brady Cartmell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcartmell/render-fcstd/issues"
+  },
+  "homepage": "https://github.com/bcartmell/render-fcstd#readme",
+  "dependencies": {
+    "three": "^0.74.0",
+    "three-orbit-controls": "^72.0.0"
+  }
+}
